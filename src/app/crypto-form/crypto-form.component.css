@@ -1,0 +1,14 @@
+button {
+  width:100%;
+  display: block;
+  position: relative;
+  margin-left: 40px;
+}
+textarea{
+  width: 500px;
+  height: 120px;
+  margin-left: 15px;
+}
+.comment {
+  margin-left: 15px;
+}
